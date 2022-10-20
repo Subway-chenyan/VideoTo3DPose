@@ -24,4 +24,8 @@
       - opencv-python (install with pip)
       - matplotlib
 
+## 测试功能
 
+将3D姿态数据导入unity生成人体姿态模型
+
+<p align="center"><img src="asset/序列 01.gif" width="100%" alt="" /></p>
