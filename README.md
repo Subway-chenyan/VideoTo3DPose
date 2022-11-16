@@ -2,7 +2,7 @@
 
 > 测试样例
 
-<p align="center"><img src="asset/kunkun_alphapose.gif" width="100%" alt="" /></p>
+<p align="center"><img src="asset/alpha_pose_test1.mp4" width="100%" alt="" /></p>
 
 ## 先决条件
 
